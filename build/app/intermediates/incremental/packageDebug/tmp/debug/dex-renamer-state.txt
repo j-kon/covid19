@@ -1,0 +1,4 @@
+#Tue Mar 24 18:00:16 WAT 2020
+base.0=/home/jaykon/AndroidStudioProjects/covid19/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
